@@ -1,0 +1,4 @@
+# Planilhas de origem — não versionar
+*.xlsx
+*.xls
+*.csv
